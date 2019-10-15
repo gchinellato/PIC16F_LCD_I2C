@@ -1,5 +1,5 @@
-pic.X/build/*
-pic.X/dist/*
+/pic.X/build/*
+/pic.X/dist/*
 
 # Prerequisites
 *.d
