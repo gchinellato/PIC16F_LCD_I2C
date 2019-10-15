@@ -1,6 +1,5 @@
-build
-dist
-funclist
+pic.X/build
+pic.X/dist
 
 # Prerequisites
 *.d
